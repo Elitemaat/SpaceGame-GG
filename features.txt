@@ -1,0 +1,15 @@
+1 -> Boton de asignar
+2 -> Areglar views de los videojuegos
+4 -> agregar productos
+5 -> eliminar productos
+6 -> editar productos
+7 -> filtrar por precio
+8 -> filtrar por consola
+9 -> filtrar por genero
+10 -> descripcion del videojuego
+11 -> Agregar panel de administracion
+12 -> Arreglar las pestañas de navegacion
+13 -> Arreglar alertas
+14 -> Seccion de ofertas
+15 -> Agregar ofertas
+16 -> Eliminar ofertas
